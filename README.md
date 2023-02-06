@@ -10,9 +10,3 @@ Proyecto de Clase Arquitectura Agil
 |wilson aponte                  |w.aponte@uniandes.edu.co                                           |
 
 
-## Mapa de historia
-![image](https://user-images.githubusercontent.com/111167445/216746023-4447ac1b-be9e-4ceb-b401-a5f8249850f5.png)
-
-## Historias de Arquitectura
-### Disponibilidad
-https://github.com/users/areyna04/projects/2
