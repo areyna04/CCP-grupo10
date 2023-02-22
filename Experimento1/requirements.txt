@@ -4,3 +4,4 @@ Flask-JWT==0.2.0
 Flask-JWT-Extended==4.2.3
 Flask-RESTful==0.3.9
 Flask-SQLAlchemy==2.5.1
+Requests==2.11.1
