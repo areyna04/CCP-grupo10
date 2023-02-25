@@ -1,0 +1,10 @@
+Flask
+Flask-Cors
+Flask-JWT
+flask-marshmallow
+Flask-RESTful
+Flask-SQLAlchemy
+requests
+urllib3
+faker
+
