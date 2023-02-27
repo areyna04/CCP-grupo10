@@ -9,7 +9,7 @@ celery_app = Celery(__name__, broker='redis://127.0.0.1:6379/0')
 @celery_app.task(name='get_plan_venta')
 def get_plan_venta(cliente):
     name_file = 'planVenta_'+cliente+'.txt'
-    print('log-celery: Micro PlanVentaQuery')
+    print('log-celery : PlanVentaQuery1')
     # write file system planVenta Cliente
     with open(name_file, 'w') as flog:
         flog.write(f'{cliente},producto=cafe,Cantida=30,Stock=10,{datetime.now()}')
