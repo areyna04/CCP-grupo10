@@ -49,10 +49,11 @@ Para los Test de:
 
 1. Comunicacion Asyncrona--ver documento evidencias:
 
+https://uniandes-my.sharepoint.com/:w:/g/personal/mr_gomezc1_uniandes_edu_co/EST6Pz4znOVMul81pu9MXpEBMJL_do6W07vzkUs-Bjjv7A?e=o0uhEy
 
 2. Deteccion falla componente Monitor--ver documento evidencias:
 
-[Deteccion de Fallas](https://uniandes-my.sharepoint.com/:w:/g/personal/mr_gomezc1_uniandes_edu_co/EWAD9kpGbb5EnphSHVA4EpoBz9J4Lpm3gG1Da-60gd2YoA?e=wKa3wf)
+https://uniandes-my.sharepoint.com/:w:/g/personal/mr_gomezc1_uniandes_edu_co/EWAD9kpGbb5EnphSHVA4EpoBz9J4Lpm3gG1Da-60gd2YoA?e=wKa3wf
 
 
 
