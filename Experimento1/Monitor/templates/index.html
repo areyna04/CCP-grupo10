@@ -5,10 +5,10 @@
     <meta http-equiv="refresh" content="60">
 </head>
 <body>
-    <h1>Monitor de Microservicios</h1>
+    <h1>Monitor de Microservicios PlanVentaProcessor</h1>
     <ul>
         {% for servicio in servicios %}
-        <li>{{ servicio }} --------- {{ resultados[servicio] }}</li>
+        <li>{{ servicio }} --------- {{ resultados[servicio] }} --------- {{ date }}</li>
         {% endfor %}
     </ul>
 </body>
