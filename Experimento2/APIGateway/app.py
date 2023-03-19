@@ -20,7 +20,7 @@ def get_user_and_password():
     
     
     url = 'http://127.0.0.1:8001/login'
-    response = requests.get(url, auth=(user,password))
+    response = requests.get(url, auth=requests.auth.HTTPBasicAuth(user,password))
     data = response.json()
     if response.status_code == 200:
         return data
