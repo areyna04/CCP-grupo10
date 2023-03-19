@@ -1,0 +1,5 @@
+/Experimento2/venv/
+/.vscode/launch.json
+/Experimento2/APIGateway/__pycache__/app.cpython-310.pyc
+/Experimento2/Autenticador/__pycache__/app.cpython-310.pyc
+/Experimento2/Autenticador/userDB.db

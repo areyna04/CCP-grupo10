@@ -9,9 +9,13 @@ def get_status():
 
 @app.route('/login')
 def get_user_and_password():
-    user = request.args.get('user')
-    password = request.args.get('password')
+    #user = request.args.get('user')
+    #password = request.args.get('password')
+    auth_header   = request.authorization
+    user = auth_header.username 
+    password = auth_header.password
     params = {'user': user, 'password': password}
+    
     url = 'http://127.0.0.1:8001/login'
     response = requests.get(url, params=params)
     data = response.json()
