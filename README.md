@@ -9,7 +9,22 @@ Proyecto de Clase Arquitectura Agil
 |Mario Gomez                    |mr.gomezc1@uniandes.edu.co                                         |
 |wilson aponte                  |w.aponte@uniandes.edu.co                                           |
 
-## SEMANA 5: 
+
+## SEMANA 7 - 8: 
+
+### Evidencias: 
+
+### Hipotesis:
+
+![image](https://user-images.githubusercontent.com/111325464/226152538-74de3c2d-87c7-4872-bd60-6b76d0a7e383.png)
+
+
+### Diagrama componentes
+
+![image](https://user-images.githubusercontent.com/111325464/226152518-4f3de401-6d83-4a04-96bb-25188f82eef9.png)
+
+
+## SEMANA 5 - 6: 
 [Video Evidencia](https://uniandes-my.sharepoint.com/:v:/g/personal/mr_gomezc1_uniandes_edu_co/EcHQpzizIHxCiUullKNnXqcB-uRYMw4zP0jPqCJOHfaYoQ?e=NIPL1S)
 ### 1. Test Comunicación Asincrona:
 
