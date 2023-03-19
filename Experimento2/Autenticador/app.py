@@ -14,8 +14,9 @@ c = conn.cursor()
 
 @app.route('/login')
 def login():
-    user = request.args.get('user')
-    password = request.args.get('password')
+    auth_header   = request.authorization
+    user = auth_header.username
+    password = auth_header.password
     c.execute("SELECT id FROM users WHERE user=? AND password=?", (user, password))
     user = c.fetchone()
     if user:
