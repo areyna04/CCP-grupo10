@@ -14,10 +14,13 @@ def get_user_and_password():
     auth_header   = request.authorization
     user = auth_header.username 
     password = auth_header.password
-    params = {'user': user, 'password': password}
+    
+    ##params = {'user': user, 'password': password}
+    
+    
     
     url = 'http://127.0.0.1:8001/login'
-    response = requests.get(url, params=params)
+    response = requests.get(url, auth=(user,password))
     data = response.json()
     if response.status_code == 200:
         return data
