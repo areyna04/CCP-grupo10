@@ -11,8 +11,8 @@ c = conn.cursor()
 @app.route('/planDeVenta')
 def planDeVenta():
     id = request.args.get('id')
-    token = request.args.get('token')
-    user = request.args.get('user')
+    token = request.headers['authorization']
+    user  = request.headers['user']
     params = {'token': token, 'user': user}
     url = 'http://127.0.0.1:8001/authorize'
     response = requests.get(url, params=params)
