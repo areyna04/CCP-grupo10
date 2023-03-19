@@ -14,12 +14,17 @@ Proyecto de Clase Arquitectura Agil
 
 ### Evidencias: 
 
+[Resultado_Experimento2](https://uniandes-my.sharepoint.com/:p:/g/personal/mr_gomezc1_uniandes_edu_co/EYebHkxhz2ZIoldWncs3IdABTIDgaAEQSauvNkKRYOP1pg?e=3qzvOS)
+
+[Video_Evidencia_Experimento2](https://uniandes-my.sharepoint.com/:v:/g/personal/mr_gomezc1_uniandes_edu_co/EQjlL5yGPaFBhL65LkXMFMkBAIQwnSk1bfPjgsJbklfg4g?e=WioSY8)
+
+
 ### Hipotesis:
 
 ![image](https://user-images.githubusercontent.com/111325464/226152538-74de3c2d-87c7-4872-bd60-6b76d0a7e383.png)
 
 
-### Diagrama componentes
+### Diagrama componentes-Experimento2 HUS01
 
 ![image](https://user-images.githubusercontent.com/111325464/226152518-4f3de401-6d83-4a04-96bb-25188f82eef9.png)
 
